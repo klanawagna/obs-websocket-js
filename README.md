@@ -1,5 +1,6 @@
 # obs-websocket-js
 
+<h1>This adaptation allows secure websocket connection with ssl (wss://)</h1>
 <p align="center"><i>
 OBSWebSocket.JS allows Javascript-based connections to the Open Broadcaster plugin <a href="https://github.com/Palakis/obs-websocket">obs-websocket</a>.
 </i></p>
